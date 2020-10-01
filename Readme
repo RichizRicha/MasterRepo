@@ -5,7 +5,7 @@ git add README.md
 git commit -m "first commit"
 git branch -M masterRepo
 git remote add origin https://github.com/RichizRicha/MasterRepo.git
-git push -u origin masterRepo
+git push -u origin masterRepoHumari Pyari
                 
 …or push an existing repository from the command line
 git remote add origin https://github.com/RichizRicha/MasterRepo.git
